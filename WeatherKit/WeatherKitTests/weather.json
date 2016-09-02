@@ -1,0 +1,40 @@
+{
+    "coord": {
+        "lon": 8.55,
+        "lat": 47.37
+    },
+    "weather": [{
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+                }],
+    "base": "stations",
+    "main": {
+        "temp": 298.01,
+        "pressure": 1021,
+        "humidity": 50,
+        "temp_min": 291.48,
+        "temp_max": 303.15
+    },
+    "wind": {
+        "speed": 1.28,
+        "deg": 184.5
+    },
+    "rain": {},
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1472815987,
+    "sys": {
+        "type": 3,
+        "id": 9109,
+        "message": 0.0284,
+        "country": "CH",
+        "sunrise": 1472791620,
+        "sunset": 1472839348
+    },
+    "id": 2657896,
+    "name": "Zurich",
+    "cod": 200
+}
